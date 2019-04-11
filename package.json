@@ -1,0 +1,23 @@
+{
+  "name": "lauren",
+  "version": "1.0.0",
+  "description": "Desktop application for the lauren assistant",
+  "main": "main.js",
+  "scripts": {
+    "test": "electron .",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LaurenAssistant/DesktopApp.git"
+  },
+  "author": "Rohit Nagraj",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LaurenAssistant/DesktopApp/issues"
+  },
+  "homepage": "https://github.com/LaurenAssistant/DesktopApp#readme",
+  "dependencies": {
+    "electron": "^4.1.4"
+  }
+}
